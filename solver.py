@@ -4,15 +4,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
 
-ACMP_LOGIN = "Alexxxander"
-ACMP_PASSWORD = "y2ehm30n"
-USER_ID = "545041"
+ACMP_LOGIN = "..."
+ACMP_PASSWORD = "..."
+USER_ID = "..."
 OPENROUTER_API_KEYS = [
-    "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",
-    "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",
-    "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"
+    "..."
 ]
-AI_MODEL = "openai/gpt-3.5-turbo"
+AI_MODEL = "..."
 
 key_index = 0
 failed_keys = set()
