@@ -1,1 +1,1 @@
-Solver for acmp
+Solver for tasks acmp
